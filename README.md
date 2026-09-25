@@ -113,5 +113,4 @@ et l'a acceptée comme le nouveau normal.
 5. Traduire chaque nombre en une phrase, et l'accompagner de sa limite.
 
 ## Auteur
-
-Habiba Daïrou
+HABIBA DAIROU
